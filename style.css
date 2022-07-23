@@ -1,0 +1,72 @@
+body{
+    background-image: url(../img/header.png);
+    background-repeat: no-repeat;
+    background-color: #f3bdea;
+}
+
+h1{
+    text-align: center;
+    margin-top: 7%;
+    color: #091E42;
+    text-shadow: white solid;
+    float:  left;
+    padding-left: 10%;
+}
+
+.menu_menu{
+    text-align: center;
+    padding-top: 25%;
+    font-size: large;
+    color: white;
+}
+
+.entrada_entrada{
+    float: left;
+    margin-left: 15%;
+    color: azure;
+}
+
+.lista_entrada{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.principal_principal h3{
+    float: right;
+    margin-right: 18%;
+    color: azure;
+    
+}
+
+.lista_principal{
+    float: right;
+    margin-right: 5%;
+}
+
+.sobremesa_sobremesa{
+    float: left;
+    margin-left: 15%;
+    color: azure;
+}
+
+.bebidas_bebidas h3{
+    float: right;
+    margin-right: 19%;
+    color: azure;
+}
+
+.lista_sobremesa{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.lista_bebidas{
+    float: right;
+    margin-right: 14%;
+}
+
+footer{
+    text-align: center;
+    background-color: purple;
+    margin-right: 5%;
+}
